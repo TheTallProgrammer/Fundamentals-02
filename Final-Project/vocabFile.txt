@@ -1,0 +1,40 @@
+el plato
+plate
+el tenedor
+fork
+la cuchara
+spoon
+el cuchillo
+knife
+la servilleta
+napkin
+el desayuno
+breakfast
+el almuerzo
+lunch
+la cena
+dinner
+el bocadillo
+snack
+el postre
+dessert
+hola
+hello
+la casa
+the house
+la puerta
+the door
+cafe
+coffee
+leche
+milk
+agua
+water
+vino
+wine
+abierto
+open
+acabar
+to finish
+la accion
+action
