@@ -1,0 +1,5 @@
+99 Daniel Cardin        97.50
+38 Joe Johnson           14.00
+01 Sam Samson          15.75
+02 Kevin Mitnick        04.75
+03 Jason Johnson        05.75
